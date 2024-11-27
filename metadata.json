@@ -1,6 +1,14 @@
+
 {
-  "name": "NIGGAT",
+  "name": "NIGGATI",
   "symbol": "NIGGATI",
-  "description": "NIGGATI BUGATTI ILLUMINATI",
-  "image": "https://github.com/plummium/lovegod/blob/main/NIGGATI.png?raw=true"
+  "uri": "https://raw.githubusercontent.com/plummium/lovegod/refs/heads/main/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "4rcgffHDgWaQhLr4nUjsFFphEi8nrq67a2Gfwxjr4AJ1",
+      "verified": true,
+      "share": 0
+    }
+  ]
 }
