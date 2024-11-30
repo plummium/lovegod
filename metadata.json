@@ -1,16 +1,16 @@
 {
-  "name": "NIGGATI",
-  "symbol": "NIGGATI",
-  "uri": "https://raw.githubusercontent.com/plummium/lovegod/refs/heads/main/metadata.json",
-  "seller_fee_basis_points": 0,
-  "creators": [
-    {
-      "address": "6N9FGEJGJEEy6iSwijpBJG58SbfCWsBvRK3LMS3iaB3J",
-      "verified": true,
-      "share": 100
-    }
-  ],
-  "image": "https://raw.githubusercontent.com/plummium/lovegod/refs/heads/main/NIGGATI.png",
-  "update_authority": "6N9FGEJGJEEy6iSwijpBJG58SbfCWsBvRK3LMS3iaB3J",
-  "isMutable": true  // This line allows for future updates to the metadata
+    "name": "NIGGATI",
+    "symbol": "NIGGATI",
+    "uri": "https://raw.githubusercontent.com/plummium/lovegod/refs/heads/main/metadata.json",
+    "seller_fee_basis_points": 0,
+    "creators": [
+        {
+            "address": "6N9FGEJGJEEy6iSwijpBJG58SbfCWsBvRK3LMS3iaB3J",
+            "verified": true,
+            "share": 100
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/plummium/lovegod/refs/heads/main/NIGGATI.png",
+    "update_authority": "6N9FGEJGJEEy6iSwijpBJG58SbfCWsBvRK3LMS3iaB3J",
+    "isMutable": true
 }
