@@ -12,5 +12,5 @@
   ],
   "image": "https://raw.githubusercontent.com/plummium/lovegod/refs/heads/main/NIGGATI.png",
   "update_authority": "6N9FGEJGJEEy6iSwijpBJG58SbfCWsBvRK3LMS3iaB3J",
-  "isMutable": true  // This line allows for future updates to the metadata
+  "isMutable": true
 }
