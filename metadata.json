@@ -1,7 +1,6 @@
 {
   "name": "NIGGATI",
   "symbol": "NIGGATI",
-  "uri": "https://raw.githubusercontent.com/plummium/lovegod/refs/heads/main/metadata.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
@@ -11,6 +10,13 @@
     }
   ],
   "image": "https://raw.githubusercontent.com/plummium/lovegod/refs/heads/main/NIGGATI.png",
-  "update_authority": "6N9FGEJGJEEy6iSwijpBJG58SbfCWsBvRK3LMS3iaB3J",
-  "isMutable": true
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/plummium/lovegod/refs/heads/main/NIGGATI.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "description": "Your description of the NIGGATI NFT goes here."
 }
